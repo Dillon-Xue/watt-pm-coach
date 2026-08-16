@@ -1,6 +1,13 @@
 ---
 name: watt-pm-coach
-description: 备考 PMP / 梳理 PMBOK 框架，或要在真实项目里做项目选择、干系人分析、写项目章程时用。提供加权决策矩阵、NPV/ROI/回收期判据、干系人评估四步与章程十三段模板。仅想写普通周计划或纯聊天时不要用。
+description: 备考 PMP / 梳理 PMBOK 框架，或要在真实项目里做项目选择、干系人分析、写项目章程时用。提供加权决策矩阵、NPV/ROI/回收期判据、干系人评估四步与章程十三段模板。仅想写普通周计划或纯聊天时不要用。（来源：Adrienne Watt《Project Management》(CC BY-SA 4.0)）
+slug: watt-pm-coach
+version: 1.0.0
+license: CC BY-SA 4.0
+homepage: https://github.com/Dillon-Xue/watt-pm-coach
+displayName: PMP 备考与项目管理实操教练（watt-pm-coach）
+summary: 备考 PMP / 梳理 PMBOK 框架，或要在真实项目里做项目选择、干系人分析、写项目章程时用。提供加权决策矩阵、NPV/ROI/回收期判据、干系人评估四步与章程十三段模板。仅想写普通周计划或纯聊天时不要用。（来源：Adrienne Watt《Project Management》(CC BY-SA 4.0)）
+tags: PMP, 项目管理, PMBOK, 备考, 干系人管理, 项目章程, Adrienne Watt《Project Management》(CC BY-SA 4.0)
 ---
 
 # PMP 备考与项目管理实操教练
